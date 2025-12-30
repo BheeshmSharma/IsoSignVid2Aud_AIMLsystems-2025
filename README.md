@@ -10,6 +10,4 @@ This repository will host the official implementation of the **IsoSignVid2Aud** 
 
 > *"IsoSignVid2Aud: Sign Language Video to Audio Conversion without Text Intermediaries."*
 
-We are currently finalizing the codebase to ensure clarity, reproducibility, and ease of use. The code will be made publicly available **soon**.
-
-Stay tuned for updates.
+You can find the code here: [IsoSignVid2Aud_Code](https://github.com/Kugelblitz25/sign2speech)

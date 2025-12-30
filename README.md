@@ -12,11 +12,11 @@ This repository will host the official implementation of the **IsoSignVid2Aud** 
 
 ---
 
-You can find the code here:💻 [IsoSignVid2Aud Code](https://github.com/Kugelblitz25/sign2speech)  
+You can find the code here:💻 [IsoSignVid2Aud Code](https://github.com/Kugelblitz25/IsoSignVid2Aud)  
 
 ---
 
-🌐 **[Project Page](https://kugelblitz25.github.io/sign2speech/)**  
+🌐 **[Project Page](https://kugelblitz25.github.io/IsoSignVid2Aud/)**  
 
 ## Citation
 
